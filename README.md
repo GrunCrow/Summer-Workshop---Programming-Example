@@ -2,7 +2,7 @@
 
 This repository includes documents that are Programming Examples for the Application for CV4Ecology Summer Workshop. 
 
-It is important to have into account that those files are part of different projects such as (Animal Recognition Neural Network)[https://github.com/GrunCrow/Animal_Recognition_Neural_Network] which is not about animals at all as it has been first implemented with mnist dataset (digits). Some other code examples are available in a private way.
+It is important to have into account that those files are part of different projects such as [Animal Recognition Neural Network](https://github.com/GrunCrow/Animal_Recognition_Neural_Network) which is not about animals at all as it has been first implemented with mnist dataset (digits). Some other code examples are available in a private way.
 
 This repository includes the following files:
 
